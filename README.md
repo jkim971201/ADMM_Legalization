@@ -25,6 +25,7 @@ please see template files in the test directory.
 Please note that you should place each benchmark suite in the test directory as ispd2024, iccad2017, ispd2015.
 
 ```
+cd test
 python run_ispd24.py
 python run_iccad17.py
 python run_ispd15.py
