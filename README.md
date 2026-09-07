@@ -25,7 +25,7 @@ please see template files in the test directory.
 
 # How to reproduce the results in the publication
 
-Please note that you should place each benchmark suite in the test directory as ispd2024, iccad2017, ispd2015.
+Please note that you should place SkyLine binary and each benchmark suite in the test directory as ispd2024, iccad2017, ispd2015.
 
 ```
 cd test
