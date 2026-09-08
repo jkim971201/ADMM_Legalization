@@ -1,5 +1,5 @@
 # ADMM_Legalization
-An annonymous repository of our IEEE TCAD submission,
+A repository of our IEEE TCAD submission,
 "An Open-Source Negotiation-based Legalization Method with Alternating Direction Method of Multipliers"
 
 
